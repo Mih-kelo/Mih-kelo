@@ -4,9 +4,9 @@ I'm an aspiring Penetration Tester from Lagos, Nigeria, transitioning into the w
 
 ---
 
-- 🔭 **My Portfolio Project:** Read my full penetration test report on my professional blog: [**Penetration Test Report: Launchpad Innovations**](https://Mih-kelo.github.io/penetration-test-report) *(Note: The exact link may vary slightly depending on your theme)*.
+- 🔭 **My Portfolio Project:** Read my full penetration test report on my professional blog: [**Penetration Test Report: Launchpad Innovations**](https://mihkelo.me). 
 - 🌱 **I’m currently learning:** Advanced Active Directory Exploitation & Web Application Attacks.
-- 📫 **How to reach me:** [**Connect with me on LinkedIn**]()
+- 📫 **How to reach me:** [**Connect with me on LinkedIn**](https://www.linkedin.com/in/michael-okechukwu-164784242/)
 
 ---
 
