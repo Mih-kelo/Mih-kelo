@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "MICHAEL"
+title = "Michael Okechukwu | Cybersecurity Portfolio"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ title = "MICHAEL"
   dateFormat = "2 January 2006"
    logo = "img/logo.png"
    secondaryLogo = "img/secondary-logo.png"
-   description = "My awesome website"
+   description = "The professional portfolio of Michael Okechukwu, an aspiring penetration tester specializing in network and web application security."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
