@@ -1,10 +1,9 @@
 ---
 title: "Penetration Test Report: Launchpad Innovations"
-date: 2025-09-09
+date: 2025-09-13
 description: "A full-scope black box penetration test report detailing the compromise of a vulnerable web server, from reconnaissance to root."
 draft: false
 ---
-
 > **Note:** This engagement was conducted in a sandboxed lab enviroment. The target and client are fictional and the scenario was created for the purpose of demonstrating technical and reporting skills.
 
 
