@@ -118,7 +118,7 @@ Following privilege escalation, the contents of `/root/root.txt` were successful
 
 ## 3.0 REMEDIATION AND RECOMMENDATIONS
 
-The following recommendations are provided to address the vulnerabilities identified during the assessment. It is advised that these actions be implemented in a timely manner to improve the overall security posture of the application and server.
+The following recommendations are provided to address the vulnerabilities identified during the assessment. It is advised that these actions be implemented promptly to improve the overall security posture of the application and server.
 
 ###### 3.1 (CRITICAL) - UPDATE VULNERABLE GetSimple CMS:
 The root cause of the initial compromise was an outdated and vulnerable version of the GetSimple CMS. Recommendation: Immediately update the GetSimple CMS to the latest stable and patched version available from the vendor. A regular patch management schedule should be implemented to ensure all web application components are kept up-to-date.
@@ -133,7 +133,7 @@ The `admin.xml` file, containing a username and password hash, was publicly acce
 The administrator account used a weak, easily guessable password (`admin`) and a deprecated hashing algorithm (SHA1). Recommendation: Enforce a strong password policy for all users. Furthermore, the application should be updated to use a modern, strong password hashing algorithm such as Argon2 or bcrypt.
 
 
-## CONCLUSION
+## 4.0 CONCLUSION
 The penetration test of the GetSimple CMS web server at 10.129.1.211 was successful. The engagement simulated a real-world attack scenario, demonstrating that a series of chained vulnerabilities could be exploited by a remote attacker to gain complete administrative control of the target server.
 
 The findings detailed in this report highlight critical risks that require immediate attention. It is strongly recommended that the remediation steps outlined in Section 3.0 be implemented to mitigate these risks and secure the environment against future attacks.
