@@ -1,6 +1,6 @@
 ---
 title: "Penetration Test Report: Launchpad Innovations"
-date: 2025-09-13
+date: 2025-09-09
 description: "A full-scope black box penetration test report detailing the compromise of a vulnerable web server, from reconnaissance to root."
 draft: false
 ---
